@@ -6,3 +6,5 @@
 @import url("./blocks/page/__item/_style/page__item_style_google-plus.css");
 @import url("./blocks/page/__item/_style/page__item_style_instagram.css");
 @import url("./blocks/page/__item/_style/page__item_style_twitter.css");
+@import url("./blocks/header/header.css");
+@import url("./blocks/header/__title/header__title.css");

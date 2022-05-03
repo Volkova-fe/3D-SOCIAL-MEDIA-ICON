@@ -1,0 +1,11 @@
+.page__item_style_twitter:hover .page__link {
+	background: #00aced;
+}
+
+.page__item_style_twitter:hover .page__link:before {
+	background: #097aa5;
+}
+
+.page__item_style_twitter:hover .page__link:after {
+	background: #097aa5;
+}

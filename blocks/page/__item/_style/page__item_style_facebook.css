@@ -1,0 +1,11 @@
+.page__item_style_facebook:hover .page__link {
+	background: #3b5998;
+}
+
+.page__item_style_facebook:hover .page__link:before {
+	background: #365492;
+}
+
+.page__item_style_facebook:hover .page__link:after {
+	background: #4a69ad;
+}

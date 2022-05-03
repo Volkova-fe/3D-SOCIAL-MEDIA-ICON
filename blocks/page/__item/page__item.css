@@ -1,0 +1,12 @@
+.page__item {
+	list-style-type: none;
+	margin: 0 40px;
+}
+
+.page__item .fa {
+	font-size: 40px;
+	color: #262626;
+	line-height: 80px;
+	padding-right: 14px;
+}
+

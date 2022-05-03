@@ -1,0 +1,11 @@
+.page__item_style_instagram:hover .page__link {
+	background: #e4405f;
+}
+
+.page__item_style_instagram:hover .page__link::before {
+	background: #d81c3f;
+}
+
+.page__item_style_instagram:hover .page__link::after {
+	background: #e46880;
+}

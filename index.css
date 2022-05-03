@@ -1,0 +1,8 @@
+@import url("./blocks/page/page.css");
+@import url("./blocks/page/__list/page__list.css");
+@import url("./blocks/page/__item/page__item.css");
+@import url("./blocks/page/__link/page__link.css");
+@import url("./blocks/page/__item/_style/page__item_style_facebook.css");
+@import url("./blocks/page/__item/_style/page__item_style_google-plus.css");
+@import url("./blocks/page/__item/_style/page__item_style_instagram.css");
+@import url("./blocks/page/__item/_style/page__item_style_twitter.css");

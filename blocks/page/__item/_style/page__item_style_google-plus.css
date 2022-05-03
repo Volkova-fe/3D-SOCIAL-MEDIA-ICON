@@ -1,0 +1,11 @@
+.page__item_style_google-plus:hover .page__link {
+	background: #dd4b39;
+}
+
+.page__item_style_google-plus:hover .page__link::before {
+	background: #b33a2b;
+}
+
+.page__item_style_google-plus:hover .page__link:after {
+	background: #e66a5a;
+}

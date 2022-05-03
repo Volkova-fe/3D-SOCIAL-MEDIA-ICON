@@ -1,4 +1,12 @@
 .header {
 	display: flex;
 	align-items: center;
+	justify-content: center;
+}
+
+@media screen and (max-width: 1040px) {
+	.header {
+		max-width: 95%;
+		margin: 0 auto;
+	}
 }

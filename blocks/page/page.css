@@ -7,3 +7,11 @@
 		left: 50%;
 		transform: translate(-50%, -50%);
 }
+
+@media screen and (max-width: 1040px) {
+	header {
+		max-width: 319px;
+		margin: 0 auto;
+		padding: 5px;
+	}
+}

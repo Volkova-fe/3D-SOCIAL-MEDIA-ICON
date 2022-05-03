@@ -1,5 +1,15 @@
 .header__title {
 	font-size: 42px;
 	font-weight: 900;
-	font-family: 'Courier New', Courier, monospace;
+	font-family: "Courier New", Courier, monospace;
+}
+
+@media screen and (max-width: 1040px) {
+	.header__title {
+		font-size: 30px;
+		max-width: 319px;
+		margin: 0 auto;
+		text-align: center;
+		padding: 0;
+	}
 }

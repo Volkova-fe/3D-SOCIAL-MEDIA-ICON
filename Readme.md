@@ -1,9 +1,16 @@
-## Frontends Projects - 3D SOCIAL MEDIA ICON
+# Frontends Projects - 3D-Social-Media-Icon
+___
 
----
-Project: 3D SOCIAL MEDIA ICON\
-Stack: HTML & CSS\
-Level: Beginner\
-Follow: https://frontendsprojects.com/
----
-# Page: https://volkova-fe.github.io/3D-SOCIAL-MEDIA-ICON/
+## Обзор
+Функционал:
+ - Анимированные 3d кнопки социальных сетей
+___
+
+## Использованные технологии
+* HTML
+* CSS
+* Иконочный стиль (Font Awesome)
+___
+
+* [Follow](https://frontendsprojects.com/)
+* [Ссылка на страницу проекта github](https://volkova-fe.github.io/3D-Social-Media-Icon/)

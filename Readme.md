@@ -13,4 +13,4 @@ ___
 ___
 
 * [Follow](https://frontendsprojects.com/)
-* [Ссылка на страницу проекта github](https://volkova-fe.github.io/3D-Social-Media-Icon/)
+* [Демоверсия](https://volkova-fe.github.io/3D-Social-Media-Icon/)
